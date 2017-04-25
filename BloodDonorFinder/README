@@ -1,0 +1,14 @@
+Before Running the system, Please create database named "lifesavers" (without quotes) in your database.
+
+Some dummy users are shown below,
+Username	Password
+hayuso		123456
+ranjan		123456
+sabin		123456
+croshan		123456
+test		test
+user1		user
+
+
+All other should work fine!
+Thank you!
