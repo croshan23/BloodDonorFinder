@@ -1,0 +1,2 @@
+# BloodDonorFinder
+App displays nearby blood donors of a specific blood type based on the finder location in Google map. Markers are used to pin-point finder and donors. The finder can request blood donation through a web interface. The donor has liability to accept or deny the request. Once donated, the blood donor will not be available for 3 months automatically.  Technologies used: HTML5, CSS3, Bootstrap, Hibernate, Spring MVC, Tag libraries, Sessions, Security and Web Flow, Web 2.0 REST, JSON and AJAX.
